@@ -11,6 +11,6 @@ body #wall #tag-3.slick{
 div#wall #tag-4{
   display: none;
 }
-body#wall .parent #tag-5.slick{
+body #wall .parent #tag-5.slick{
   display:none;
 }
